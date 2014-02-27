@@ -3,9 +3,9 @@ Reads in a file of digital read outs of account numbers.
 What?
 
 This is a digital read out of an account number:
-`    _  _     _  _  _  _  _ 
-  | _| _||_||_ |_   ||_||_|
-  ||_  _|  | _||_|  ||_| _|` 
+ nbsp; nbsp; nbsp; nbsp;_ nbsp; nbsp;_ nbsp; nbsp; nbsp; nbsp; nbsp;_ nbsp; nbsp;_ nbsp; nbsp;_ nbsp; nbsp;_ nbsp; nbsp;_ nbsp;
+ nbsp; nbsp;| nbsp;_| nbsp;_||_||_ nbsp;|_ nbsp; nbsp; nbsp;||_||_|
+ nbsp; nbsp;||_ nbsp; nbsp;_| nbsp; nbsp;| nbsp;_||_| nbsp; nbsp;||_| nbsp;_| nbsp;
 
 => 123456789
 
